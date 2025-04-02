@@ -19,3 +19,5 @@ In this scenario, I needed to examine and manage the permissions on the files in
 ## Project Details
 ![image alt](https://github.com/EngineerMel/File-Permissions/blob/87ee6bb21c7e0ab6e223e2c9ead88ffeb197a504/Screenshot%202025-04-02%20at%201.52.35%20PM.png)
 
+![image alt](https://github.com/EngineerMel/File-Permissions/blob/cd1d5dd0b31387644b989c6bb1fa46cad1bf4d08/Screenshot%202025-04-02%20at%201.52.43%20PM.png)
+
