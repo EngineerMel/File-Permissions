@@ -22,3 +22,5 @@ In this scenario, I needed to examine and manage the permissions on the files in
 ![image alt](https://github.com/EngineerMel/File-Permissions/blob/cd1d5dd0b31387644b989c6bb1fa46cad1bf4d08/Screenshot%202025-04-02%20at%201.52.43%20PM.png)
 
 ![image alt](https://github.com/EngineerMel/File-Permissions/blob/84185ba9b6697dfbfda5aed09edf17eb231aebf2/Screenshot%202025-04-02%20at%201.52.53%20PM.png)
+
+![image alt](https://github.com/EngineerMel/File-Permissions/blob/69de97556dec70aa70795ab364dea7cbfdaf34b3/Screenshot%202025-04-02%20at%201.52.58%20PM.png)
